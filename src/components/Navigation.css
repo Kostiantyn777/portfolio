@@ -1,0 +1,10 @@
+.navbar-items {
+	justify-content: center;
+	display: flex;
+}
+
+@media only screen and (min-height: 500px) {
+	.navbar {
+	  height: 10vh;
+	}	
+}
