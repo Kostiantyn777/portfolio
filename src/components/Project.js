@@ -40,7 +40,7 @@ const Project = ({
                 alt="Project Screenshot"
               />
             </a>
-            <figcaption>Fig. {name} - Screenshot</figcaption>
+            
           </figure>
         </Col>
         <Col xs={24} sm={24} md={12} lg={12} xl={12} className="project-info">
