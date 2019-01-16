@@ -12,7 +12,7 @@ const Header = props => {
           <p className="hero-intro">Hey there! My name is</p>
           <p className="hero-name">Kostiantyn Borodach.</p>
           <p className="hero-subtitle">
-            I'm a Creative Problem Solver and Full Stack Developer!!!!!!.
+            I'm a Creative Problem Solver and Full Stack Developer.
           </p>
           <a
             href="https://www.linkedin.com/in/kostiantyn-borodach-4a3859152/"
