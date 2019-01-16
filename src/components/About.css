@@ -70,7 +70,7 @@
     display: none;
   }
   .aboutfull {
-    background-image: url(images/bg-about-1600.jpg);
+    background-image: url(images/bg-about-1600.webp);
   }
 }
 
@@ -82,25 +82,25 @@
 
 @media only screen and (min-width: 768px) and (max-width: 1600px) and (max-resolution: 191dpi) {
   .aboutfull {
-    background-image: url(images/bg-about-1600.jpg);
+    background-image: url(images/bg-about-1600.webp);
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (min-resolution: 192dpi) {
   .aboutfull {
-    background-image: url(images/bg-about-1920.jpg);
+    background-image: url(images/bg-about-1920.webp);
   }
 }
 
 @media only screen and (min-width: 1601px) and (max-width: 1920px) and (max-resolution: 191dpi) {
   .aboutfull {
-    background-image: url(images/bg-about-1920.jpg);
+    background-image: url(images/bg-about-1920.webp);
   }
 }
 
 @media only screen and (min-width: 1025px) and (min-resolution: 192dpi),
   screen and (min-width: 1921px) {
   .aboutfull {
-    background-image: url(images/bg-about-3200.jpg);
+    background-image: url(images/bg-about-3200.webp);
   }
 }

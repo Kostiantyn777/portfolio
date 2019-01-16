@@ -6,7 +6,7 @@ const projectArray = [
     name: "Face Recognition",
     description:
       "This app detects faces in pictures using Clarifai's AI API. It also has a register/signin system and a basic profile that counts and displays user submissions.",
-    image: "/screenshots/facerecognition.jpg",
+    image: "/screenshots/facerecognition.webp",
     frontLink: "https://github.com/Kostiantyn777/smart-brain-kos",
     backLink: "https://github.com/Kostiantyn777/smart-brain-kos",
     appLink: "https://smart-brain-kos.herokuapp.com",
@@ -16,7 +16,7 @@ const projectArray = [
     name: "Robofriends",
     description:
       "This is a React App for searching robots.",
-    image: "/screenshots/robofriends.jpg",
+    image: "/screenshots/robofriends.webp",
     frontLink: "https://github.com/Kostiantyn777/robofriends",
     backLink: "",
     appLink: "https://kostiantyn777.github.io/robofriends/",
@@ -32,7 +32,7 @@ const projectArray = [
     name: "Star Wars",
     description:
       "Small Project using the SWAPI.",
-    image: "/screenshots/starwars.jpg",
+    image: "/screenshots/starwars.webp",
     frontLink: "https://github.com/Kostiantyn777/react-starwars",
     backLink: "",
     appLink: "https://kostiantyn777.github.io/react-starwars/",

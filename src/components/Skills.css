@@ -31,7 +31,7 @@
 		display: none;
 	}
 	.skillsfull {
-		background-image: url(images/bg-skills-1600.jpg);
+		background-image: url(images/bg-skills-1600.webp);
 	}
 }
 
@@ -46,7 +46,7 @@
 	and (max-width: 1600px) 
 	and (max-resolution: 191dpi) {
 	.skillsfull {
-	    background-image: url(images/bg-skills-1600.jpg);
+	    background-image: url(images/bg-skills-1600.webp);
 	}
 }
 
@@ -55,7 +55,7 @@
 	and (max-width: 1024px) 
 	and (min-resolution: 192dpi) {
 	.skillsfull {
-	    background-image: url(images/bg-skills-1920.jpg);
+	    background-image: url(images/bg-skills-1920.webp);
 	}
 }
 
@@ -64,7 +64,7 @@
 	and (max-width: 1920px)
 	and (max-resolution: 191dpi) {
 	.skillsfull {
-	    background-image: url(images/bg-skills-1920.jpg);
+	    background-image: url(images/bg-skills-1920.webp);
 	}
 }
 
@@ -73,6 +73,6 @@
 	and (min-resolution: 192dpi),
 	screen and (min-width: 1921px)  {
 	.skillsfull {
-	    background-image: url(images/bg-skills-3200.jpg);
+	    background-image: url(images/bg-skills-3200.webp);
 	}
 }
