@@ -1,27 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "7a0c73e3a775ce6b69e3a293a6d364e2",
-    "url": "/portfolio/static/media/bg-portfolio-1600.7a0c73e3.webp"
+    "revision": "688fae11190b58cb7402822d464ace36",
+    "url": "/portfolio/static/media/bg-header-3200.688fae11.webp"
   },
   {
-    "revision": "86d1bca8b94a75407fe0",
-    "url": "/portfolio/static/css/main.777add01.chunk.css"
+    "revision": "3c96e83386e46232aa4b",
+    "url": "/portfolio/static/css/main.a0a4588e.chunk.css"
   },
   {
     "revision": "e2499aa11fb94fa8946c4f9f63962a05",
     "url": "/portfolio/static/media/bg-about-3200.e2499aa1.webp"
   },
   {
-    "revision": "a67b689e8091813c3876",
-    "url": "/portfolio/static/js/1.a67b689e.chunk.js"
+    "revision": "27b44a053c94b4f4746a",
+    "url": "/portfolio/static/js/1.27b44a05.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
+    "revision": "ff23e5dc28402f60d2c24489ecac3c5d",
+    "url": "/portfolio/static/media/facerecognition.ff23e5dc.webp"
+  },
+  {
     "revision": "66ed5076b6601a5f6d3f07f1b9d9bbb5",
     "url": "/portfolio/static/media/robofriends.66ed5076.webp"
+  },
+  {
+    "revision": "9f864b621de813546576856cb74a371b",
+    "url": "/portfolio/static/media/starwars.9f864b62.webp"
   },
   {
     "revision": "3840ccc15f6d2d30a302ffa57eab21a8",
@@ -36,12 +44,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/bg-header-1920.70cb4595.webp"
   },
   {
-    "revision": "688fae11190b58cb7402822d464ace36",
-    "url": "/portfolio/static/media/bg-header-3200.688fae11.webp"
+    "revision": "3c96e83386e46232aa4b",
+    "url": "/portfolio/static/js/main.3c96e833.chunk.js"
   },
   {
-    "revision": "86d1bca8b94a75407fe0",
-    "url": "/portfolio/static/js/main.86d1bca8.chunk.js"
+    "revision": "7a0c73e3a775ce6b69e3a293a6d364e2",
+    "url": "/portfolio/static/media/bg-portfolio-1600.7a0c73e3.webp"
   },
   {
     "revision": "0cef17457776116dcc4d2c36dd0837f1",
@@ -72,11 +80,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/bg-about-1920.7f8fa91f.webp"
   },
   {
-    "revision": "a67b689e8091813c3876",
+    "revision": "27b44a053c94b4f4746a",
     "url": "/portfolio/static/css/1.150a97f3.chunk.css"
   },
   {
-    "revision": "13bcd3ab9ffaf402cf621236319c3ed2",
+    "revision": "dd99a3554417bc58a25c672c901821aa",
     "url": "/portfolio/index.html"
   }
 ];
