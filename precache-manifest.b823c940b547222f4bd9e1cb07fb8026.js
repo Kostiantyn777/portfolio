@@ -4,20 +4,24 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/bg-portfolio-1600.7a0c73e3.webp"
   },
   {
-    "revision": "db382c653b387704487b",
-    "url": "/portfolio/static/css/main.30a664fd.chunk.css"
+    "revision": "86d1bca8b94a75407fe0",
+    "url": "/portfolio/static/css/main.777add01.chunk.css"
   },
   {
     "revision": "e2499aa11fb94fa8946c4f9f63962a05",
     "url": "/portfolio/static/media/bg-about-3200.e2499aa1.webp"
   },
   {
-    "revision": "02cbc33c6015c90abf77",
-    "url": "/portfolio/static/js/1.02cbc33c.chunk.js"
+    "revision": "a67b689e8091813c3876",
+    "url": "/portfolio/static/js/1.a67b689e.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
+  },
+  {
+    "revision": "66ed5076b6601a5f6d3f07f1b9d9bbb5",
+    "url": "/portfolio/static/media/robofriends.66ed5076.webp"
   },
   {
     "revision": "3840ccc15f6d2d30a302ffa57eab21a8",
@@ -36,8 +40,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/bg-header-3200.688fae11.webp"
   },
   {
-    "revision": "db382c653b387704487b",
-    "url": "/portfolio/static/js/main.db382c65.chunk.js"
+    "revision": "86d1bca8b94a75407fe0",
+    "url": "/portfolio/static/js/main.86d1bca8.chunk.js"
   },
   {
     "revision": "0cef17457776116dcc4d2c36dd0837f1",
@@ -68,11 +72,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/bg-about-1920.7f8fa91f.webp"
   },
   {
-    "revision": "02cbc33c6015c90abf77",
+    "revision": "a67b689e8091813c3876",
     "url": "/portfolio/static/css/1.150a97f3.chunk.css"
   },
   {
-    "revision": "2fd88bb95ed1f8b311a29d65d1d7d72d",
+    "revision": "13bcd3ab9ffaf402cf621236319c3ed2",
     "url": "/portfolio/index.html"
   }
 ];
