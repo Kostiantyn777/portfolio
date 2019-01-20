@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio/static/css/main.a0a4588e.chunk.css",
-  "main.js": "/portfolio/static/js/main.3c96e833.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.3c96e833.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.d150b14f.chunk.css",
+  "main.js": "/portfolio/static/js/main.78a494cf.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.78a494cf.chunk.js.map",
   "static/css/1.150a97f3.chunk.css": "/portfolio/static/css/1.150a97f3.chunk.css",
   "static/js/1.27b44a05.chunk.js": "/portfolio/static/js/1.27b44a05.chunk.js",
   "static/js/1.27b44a05.chunk.js.map": "/portfolio/static/js/1.27b44a05.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/Portfolio.css": "/portfolio/static/media/bg-portfolio-3200.74bead01.webp",
   "static/media/Skills.css": "/portfolio/static/media/bg-skills-3200.7bbb23ec.webp",
   "static/media/robofriends.webp": "/portfolio/static/media/robofriends.66ed5076.webp",
-  "static/css/main.a0a4588e.chunk.css.map": "/portfolio/static/css/main.a0a4588e.chunk.css.map",
+  "static/css/main.d150b14f.chunk.css.map": "/portfolio/static/css/main.d150b14f.chunk.css.map",
   "static/css/1.150a97f3.chunk.css.map": "/portfolio/static/css/1.150a97f3.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.7d2ba78c85f891778cd0a43efb72fd7b.js": "/portfolio/precache-manifest.7d2ba78c85f891778cd0a43efb72fd7b.js",
+  "precache-manifest.f17ca2ccaf50bcbce9e1efcbcda5162e.js": "/portfolio/precache-manifest.f17ca2ccaf50bcbce9e1efcbcda5162e.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
