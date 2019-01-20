@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/bg-portfolio-3200.74bead01.webp"
   },
   {
-    "revision": "fcd838673f70f6f3d0cec277e0fe3a55",
-    "url": "/portfolio/static/media/bg-skills-1600.fcd83867.webp"
-  },
-  {
     "revision": "250b8453a4f178f15f8457199f06ef94",
     "url": "/portfolio/static/media/bg-skills-1920.250b8453.webp"
+  },
+  {
+    "revision": "fcd838673f70f6f3d0cec277e0fe3a55",
+    "url": "/portfolio/static/media/bg-skills-1600.fcd83867.webp"
   },
   {
     "revision": "7bbb23ec407c06f66f50fadb5bf1de19",
